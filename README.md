@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SamColwill
+- 👀 I'm a Computer Science graduate looking for work in the industry.
+- 🌱 I have knowledge of, and have undertaken projects in C/C++, Java, Python, SQL aswell as other languages.
+- 📫 I can be contacted by email at sam.colwill96@hotmail.com or by mobile on 07401 541937
