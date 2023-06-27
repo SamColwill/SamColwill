@@ -1,4 +1,4 @@
-- 👋 hi, i’m @SamColwill
-- 👀 i am a software engineer currently an integration support role in the payments industry, i work with developers to ensure that they have implemented my companies solutions correctly.
-- 🌱 i have knowledge of, and have undertaken projects in javascript, c/c++, python aswell as other languages.
+- 👋 hello there
+- 👀 my name is sam, i am a software engineer currently working a integration support role within the payments industry.
+- 🌱 i have knowledge of, and have undertaken projects in javascript, c/c++, python aswell as many other languages.
 - 📫 i can be contacted by email at sam.colwill96@hotmail.com or by mobile on 07401 541937
