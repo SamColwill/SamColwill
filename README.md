@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamColwill
-- 👀 I'm a Computer Science graduate looking for work in the industry.
-- 🌱 I have knowledge of, and have undertaken projects in C/C++, Java, Python aswell as other languages.
-- 📫 I can be contacted by email at sam.colwill96@hotmail.com or by mobile on 07401 541937
+- 👋 hi, i’m @SamColwill
+- 👀 i am a software engineer currently an integration support role in the payments industry, i work with developers to ensure that they have implemented my companies solutions correctly.
+- 🌱 i have knowledge of, and have undertaken projects in javascript, c/c++, python aswell as other languages.
+- 📫 i can be contacted by email at sam.colwill96@hotmail.com or by mobile on 07401 541937
